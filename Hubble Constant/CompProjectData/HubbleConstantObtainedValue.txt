@@ -1,0 +1,3 @@
+My program returned:
+
+"The calculated value for H0 is: 61.726 +/- 6.849 km/s/Mpc"
